@@ -1,0 +1,14 @@
+layout_spectrum: 0.39042480336502194
+typography_spectrum: 0.2278083369601518
+color:
+  brandStrength: 0.31368655106052756
+  lightness: 0.621608431218192
+  saturation: 0.485432171728462
+  rhythmicContrast: 0.4352643059100956
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: FireLyfe
