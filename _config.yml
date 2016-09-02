@@ -1,4 +1,3 @@
-layout_spectrum: 0.39042480336502194
 typography_spectrum: 0.2278083369601518
 color:
   brandStrength: 0.31368655106052756
@@ -6,9 +5,14 @@ color:
   saturation: 0.485432171728462
   rhythmicContrast: 0.4352643059100956
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+layout_spectrum: 0.39042480336502194
 name: FireLyfe
+navigation:
+  - name: Creating a unique you
+    url: www.graphixgurus.com
+    type: external
